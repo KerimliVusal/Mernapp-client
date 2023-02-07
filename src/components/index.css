@@ -1,0 +1,309 @@
+.ourblog{
+    height:230px;
+    width: 100vw;
+    background-image: url('https://www.pngmart.com/files/13/Blue-Abstract-Transparent-Background.png');
+    background-size:cover;
+    /* background-position: center ; */
+    background-repeat:repeat;
+       background-color: rgb(169, 191, 235);
+       opacity: 0.9;
+       margin-bottom: 20px;
+       
+   
+  
+  }
+  
+  .blog1 h1{
+    width: 100%;
+    height: 100%;
+    font-size: 34px;
+    color: rgb(29, 28, 28);
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 70px;
+    font-weight: 800;
+    text-align: center;
+    margin-top: 20px;
+    color: #ffffff;
+    background-image: url('https://www.smatbot.com/blog/wp-content/uploads/2018/02/Hi-Animation-without-background-.gif');
+    background-size:150px;
+    background-repeat: no-repeat;
+    background-position: left;
+   
+    
+
+    
+
+  }
+  .blog1 p{
+    margin-bottom: 100px;
+    color: white!important;
+  }
+  .cat{
+   position:relative;
+   color: white!important;
+  
+  }
+  .cat1{
+    position: absolute;
+    top: 10px;
+    margin: 30px;
+    width: 300px;
+    background:rgb(65, 65, 65) ;
+    opacity:0.8;
+    color: white!important;
+    text-align: center;
+  }
+  .cat1 p{
+    padding:20px;
+    color: white!important;
+  }
+  .cat1 h1{
+    font-size: 24px;
+    padding-top: 20px;
+  }
+  .cat1:hover{
+    background: rgb(73, 73, 151);
+  }
+  .blog3 h2{
+    padding:20px 0 10px 0;
+    width: 400px;
+    font-size: 24px;
+    
+  }
+  .blog3 p{
+    width:400px;
+    font-size: 16px;
+    color:#7a7a7a;
+  }
+  .blog3 button{
+    width: 100px;
+    border:1px #818181;
+  }
+  
+  .blog3 img{
+    width:450px;
+    
+  }
+  .blog5{
+   position: relative;
+    list-style: none;
+    
+  }
+  
+  .blog5 li{
+    padding: 10px;
+    color:#7a7a7a
+  
+  }
+  .blogicon{
+    position: absolute;
+    right:20px;
+  }
+  .insta img{
+    width:100%;
+  }
+  .pagin{
+    position: relative;
+  }
+  .pagination{
+   position:absolute;
+   left: 30%;
+  
+  }
+  .carli{
+  text-align: center;
+  
+  
+  }
+  .carli p{
+    color:#7a7a7a;
+    font-size: 15px;
+  }
+  .carli1 {
+    background-color: rgb(68, 68, 216);
+    border-radius: 15px;
+    border:none;
+    outline: none;
+    margin-bottom:20px ;
+    color:white !important;
+    width: 80%;
+    margin:0 auto ;
+    padding: 1px 10px;
+  
+  }
+  .carli1 input{
+    background-color: rgb(68, 68, 216);
+    border:none;
+    outline: none;
+    color:white !important;
+    padding: 5px 10px;
+    border-radius: 20px;
+    width: 70%;
+  
+  }
+  .carli2 img{
+  margin-bottom: 10px;
+  margin-top: 20px;
+   
+  }
+  .carliicon{
+   display:flex;
+  justify-content: space-evenly;
+  margin-bottom: 20px;
+  }
+  .carlisection{
+    border: 1px solid #d4d4d4;
+    padding: 20px;
+    margin:0 auto;
+  }
+  .visitinsta{
+    position: absolute;
+    top:48%;
+    left:39%;
+    right: 45%;
+  }
+  .insta{
+    position: relative;
+  }
+  .visitinsta button{
+    border: none;
+    padding: 30px 15px;
+    background: rgb(70, 70, 70);
+    opacity: 0.8;
+    color: white !important;
+  }
+  .visitinsta:hover button{
+    background: rgb(80, 80, 226);
+  }.popularpost p{
+    font-size: 14px;
+    color: #7a7a7a;
+    padding: 0;
+    margin: 0;
+  }
+  .popularpost h5{
+    text-align: center;
+    width: 200px;
+    background-color:rgb(84, 84, 250);
+    padding: 5px 10px;
+    color:white;
+    margin: 0 auto;
+  }
+  .postcatigories h5{
+    text-align: center;
+    width: 200px;
+    background-color:rgb(84, 84, 250);
+    padding: 5px 10px;
+    color:white;
+    margin:0 auto;
+  }
+  .postcatigories1{
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px dashed #7a7a7a;
+    padding-top:10px;
+    margin: 0;
+    
+  }
+  .postcatigories p{
+    color: #7a7a7a;
+  }
+  .postcatigores3 h5{
+    text-align: center;
+    width: 200px;
+    background-color: rgb(83, 83, 255);
+    color: white;
+    margin:0 auto;
+    padding: 7px;
+  }
+  .postcatigores3 p{
+    color: #7a7a7a;
+    text-align: center;
+  }
+  .postcatigoriesemail{
+    display:flex;
+    padding: 0;
+    margin: 0 auto;
+    border: 1px solid #7a7a7a;
+    width:90%;
+    
+  }
+  .postcatigoriesemail button{
+    border:none;
+    background-color: rgb(87, 87, 255);
+    color:white;
+    padding: 12px 5px;
+  }
+  .postcatigoriesemail input{
+    outline: none;
+    padding: 0 10px;
+    border: none;
+     width:70%;
+    color: #7a7a7a;
+    
+  }
+  .postcatigoriesicon{
+    margin-top:10px;
+    padding-left: 3px;
+  }
+  .navtext{
+    text-decoration: none;
+    color: #7a7a7a;
+  
+  }
+  .navv{
+    background: linear-gradient(90.21deg, #e7f3f7 -5.91%, #ffffff 111.58%);
+    min-height: 80px;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    position: relative;
+    border-bottom: 1px solid #cccbcb;
+  
+  
+  
+}
+.navv1{
+    width: 100px;
+height: 80px;
+   
+    
+    
+    
+}
+.navv1 img{
+   width: 100px;
+   position:absolute;
+   left:10px;
+   top: 5px;
+   
+}
+.inpt input{
+ visibility:hidden;
+ width:0px;
+ transition: 1s linear;
+ padding:3px 10px;
+ border:none;
+ outline:none;
+ 
+}
+.inpt:hover input{
+ visibility: visible;
+ width: 150px;
+ border-color: blue;
+ border-radius:15px;
+ border:none;
+ outline:none;
+
+ 
+}
+.siginback{
+    width: 100vw;
+    height: 100vh;
+    background-image: url('https://rurutek.com/jio/assets/img/login-animate.gif');
+    background-size: 30vw;
+    background-repeat: no-repeat;
+    background-position: left;
+}
+/* .carli::placeholder{
+    color: rgb(255, 255, 255);
+} */
